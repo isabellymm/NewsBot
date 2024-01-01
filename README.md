@@ -43,3 +43,6 @@ The Telegram News Bot is a simple Telegram bot that provides users with the late
 
 ## Contributing
 Contributions are welcome! Feel free to open issues or pull requests for any improvements or new features.
+
+## License
+This project is licensed under the MIT License.
