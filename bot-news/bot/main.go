@@ -11,8 +11,8 @@ import (
 )
 
 const (
-	telegramToken = "6664933158:AAHma-3hwjT6WzU_dTeLrSHbrbKsbJGphIY"
-	newsApiToken  = "c5a0e7df5c8f42b4a16ab238b41a29dd"
+	telegramToken = "TELEGRAM_BOT_TOKEN"
+	newsApiToken  = "NEWS_API_TOKEN"
 )
 
 var supportedCountries = map[string]string{
